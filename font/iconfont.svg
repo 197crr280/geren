@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Tue Apr  4 15:03:51 2017
+Created by FontForge 20120731 at Fri Apr 14 13:35:20 2017
  By admin
 </metadata>
 <defs>
@@ -19,7 +19,7 @@ Created by FontForge 20120731 at Tue Apr  4 15:03:51 2017
     bbox="1 -211.531 1520 896"
     underline-thickness="0"
     underline-position="0"
-    unicode-range="U+0078-E6BF"
+    unicode-range="U+0078-E726"
   />
 <missing-glyph 
  />
@@ -76,6 +76,10 @@ M399 747l112 -34l-112 -34l-34 -112l-34 112l-112 34l112 34l34 112zM931 474l56 -17
     <glyph glyph-name="dianhua" unicode="&#xe607;" horiz-adv-x="1026" 
 d="M125 896q-4 -1 -10 -3t-22.5 -12.5t-30.5 -25t-29 -41.5t-22.5 -60t-7 -84t12.5 -110q2 -7 5 -19.5t16.5 -51.5t31 -77.5t49 -93t70 -103.5t95 -102.5t122 -97t153.5 -81t187 -58.5q9 -3 35.5 -4.5t67.5 3.5t78.5 17.5t66 44t32.5 76.5q-48 130 -258 208q0 -1 -31.5 -22
 t-73 -44.5t-61.5 -30.5h-24q-6 2 -16.5 6t-41 19.5t-58.5 33.5t-63.5 48.5t-62.5 64t-48 80.5t-28 98q1 1 25 39.5t47 77t23 43.5t-7 27.5t-25 58t-43 70t-66 65t-88 41.5z" />
+    <glyph glyph-name="hanbaobao" unicode="&#xe627;" 
+d="M64 736h895v-64h-895v64zM64 416h895v-63h-895v63zM64 97h895v-64h-895v64z" />
+    <glyph glyph-name="hanbaobao1" unicode="&#xe726;" 
+d="M64 736h895v-64h-895v64zM64 416h895v-63h-895v63zM64 97h895v-64h-895v64z" />
     <glyph glyph-name="fasong" unicode="&#xe642;" 
 d="M916 753l-818 -315q-34 -14 -33.5 -30.5t36.5 -27.5l197 -58l80 -239q8 -24 26 -28t36 13l103 103l205 -150q20 -15 38 -8t23 31l149 672q5 24 -7 35t-35 2zM791 601l-348 -310q-12 -10 -13 -25l-16 -145q-1 -12 -4.5 -12.5t-7.5 11.5l-68 203q-4 14 8 22l443 265
 q21 13 23 10.5t-17 -19.5z" />
